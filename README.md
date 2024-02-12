@@ -26,9 +26,9 @@ O projeto de um site responsivo de Red Dead 2, desenvolvido com HTML, CSS, JavaS
 2. Abra o arquivo `index.html` em seu navegador web preferido.
 3. Explore a página para encontrar informações sobre o jogo e interagir com os elementos disponíveis.
 
-## Preview
+## Acesse o projeto
 
-![Preview do Projeto](https://ericsalt.github.io/Red-Dead-2/)
+- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Red-Dead-2/)
 
 ## Contribuindo
 
