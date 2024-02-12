@@ -32,8 +32,8 @@ Contribuições são bem-vindas! Se você encontrar problemas ou desejar melhora
 
 Se tiver alguma dúvida ou sugestão sobre este projeto, entre em contato:
 
--[Eric Salgado](mailto:Salgadoeric7t@gmail.com)
-- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Audiobook/)
+ -[Eric Salgado](mailto:Salgadoeric7t@gmail.com)
+- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Red-Dead-2/)
 
 ## Licença
 
